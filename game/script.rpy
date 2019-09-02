@@ -37,8 +37,9 @@ label start:
     label second_road:
         scene second_road_pic
     
-        " Oh, I kept the first for another day!\n
-        Yet knowing how way leads on to way,\n
+        "Oh, I kept the first for another day!"
+        
+        "Yet knowing how way leads on to way,\n
         I doubted if I should ever come back.\n"
         
         jump ending_regrets
