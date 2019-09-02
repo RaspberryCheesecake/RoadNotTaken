@@ -30,6 +30,12 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+'The Road Not Taken' is a poem by Robert Frost. 
+
+You can read the original and listen to an audio recording {a=https://www.poetryfoundation.org/poems/44272/the-road-not-taken}here{/a}.
+
+Background music is 'Keeping Old Letters' by Lee Roosevere
+
 """)
 
 
